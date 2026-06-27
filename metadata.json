@@ -1,0 +1,6 @@
+{
+  "name": "Smart Dispatch Driver",
+  "description": "A high-performance logistics app for delivery drivers with real-time job matching, navigation, and shift management.",
+  "requestFramePermissions": ["geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
